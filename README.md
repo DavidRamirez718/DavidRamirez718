@@ -2,7 +2,7 @@
 
 <div>
 
-<h1 align="center">Hi 👋, I'm David Ramirez</h1>
+<h1 align="center">Hi 👋, I'm <strong>David</strong> </h1>
 
 <h3 align="center">A Full-Stack Software Developer who enjoys &#127918 and traveling the &#127758</h3> 
 
