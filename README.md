@@ -36,11 +36,11 @@
 </p>
 
 <p align="center">
-- 🪖 I served 6 years in the U.S. Marine Corps
+- 🪖 I served 6 years in the <strong>U.S. Marine Corps</strong>
 </p>
 
 <p align="center">
-- 👟 I enjoy being outdoors and running is my passion! 
+- 👟 I enjoy being outdoors and <strong>running</strong> is my passion! 
 </p>
 
 <p align="center">
