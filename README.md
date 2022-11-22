@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-- 🔭 I’m currently working on <strong>Cyber Security Training</strong> program to improve youth awareness online
+- 🔭 I’m currently working on a <strong>Cyber Security Training</strong> program to improve youth awareness online
 </p>
 
 <p align="center">
