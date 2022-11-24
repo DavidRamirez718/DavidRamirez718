@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-- 💬 Ask me about <strong>React.js, .NET, C#</strong>
+- 💬 Ask me about <strong>React.js, .NET, C#, & SQL</strong>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-- 🪖 I served 6 years in the <strong>U.S. Marine Corps</strong>
+- 🪖 I served Honorably in the <strong>U.S. Marine Corps</strong>
 </p>
 
 <p align="center">
